@@ -18,7 +18,7 @@ https://wokwi.com/projects/427461273992910849  <br>
 <img src="https://github.com/mariliahoshino/IFSP_Hortolandia_2025/blob/main/Projeto_IFSP_2025%20-%20Completo/Circuito%20completo%20sistema%20de%20monitoramento.png?raw=true" height="500" widht="500" > </a>
 
 Circuito completo no emulador com display <br>
-https://wokwi.com/projects/427461273992910849  <br>
+https://wokwi.com/projects/427816688046327809  <br>
 <img src="https://github.com/mariliahoshino/IFSP_Hortolandia_2025/blob/main/Projeto_IFSP_2025%20-%20com%20display/Circuito%20completo%20com%20display.png?raw=true" height="500" widht="500" > </a>
 
 Circuito no protoboard
